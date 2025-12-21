@@ -51,6 +51,8 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 
+<img width="372" height="629" alt="Screenshot 2025-12-21 221347" src="https://github.com/user-attachments/assets/2919f570-5069-4319-b1ea-34ad2ba36352" />
+
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
